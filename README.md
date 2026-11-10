@@ -1,16 +1,15 @@
-## Hi there 👋
+<p>
+<img src="https://static.wikitide.net/doorswiki/a/a2/Starlight_icon.svg" width="50px" rotate=(30deg) alt="Icon">
+</p> 
 
-<!--
-**Starlightic/Starlightic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> ✨ HELLO, IM RAVEN! </h2>
 
-Here are some ideas to get you started:
+### ⭐| ABOUT ME!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+✨ | I am Self learnin artist mainly leaning to Concept Art. Currently studying Programming + planning to study Fashion design
+⭐ | Agender. He/They
+✨ | Interests are: Roblox Doors, Flood escape 2, Deltarune, Dandy's world and Miraculous Ladybug
+```
+
+<img src="https://static.wikitide.net/doorswiki/thumb/b/bd/Starlight_render.png/1024px-Starlight_render.png" width="500px" alt="Thumbnail">
