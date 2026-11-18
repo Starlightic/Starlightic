@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<img src="https://static.wikitide.net/doorswiki/thumb/b/bd/Starlight_render.png/1024px-Starlight_render.png" width="500px" alt="Thumbnail">
+<img src="https://static.wikitide.net/doorswiki/b/bd/Starlight_render.png" width="500px" alt="Thumbnail">
 
 ```
 ✨ | I like all the oomfs/friends i have! i love you guys!
